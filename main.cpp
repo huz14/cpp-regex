@@ -1,7 +1,7 @@
 /*
 -	Author : Jon Hu
 -	Time : 2015.12.25
--	All right reserved
+-	All rights reserved
 */
 
 #include <iostream>
